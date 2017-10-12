@@ -1,0 +1,27 @@
+Credit Card
+===========
+Card Number: 5426400030108754
+CVV2: 869
+Exp Date 2018
+month = November
+
+Doku Wallet 
+===========
+Dokuwallet ID : 1314693141
+Pass : Dokupay123
+Pin : 1122
+
+VA Permata
+===========
+http://sandbox.doku.com/simulator/atm
+
+ALFA
+============
+http://sandbox.doku.com/simulator/mart
+
+
+
+
+
+
+
